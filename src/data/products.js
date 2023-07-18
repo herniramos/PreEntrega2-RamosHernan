@@ -54,7 +54,7 @@ export const products = [
         precio: 9515,
         title: 'Pantalones LIFT',
         titleDetail: 'Descripción del producto',
-        detail: 'El mejor alimento para gato adulto sabor pescado.',
+        detail: 'Pantalones LIFT',
         image: '/img/pants.jpg',
         stock: 35,
         category: 'pantalones'
